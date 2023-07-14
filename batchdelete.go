@@ -52,7 +52,7 @@ func main() {
 	// Confirm branch deletion.
 	confirm := false
 	confirmPrompt := &survey.Confirm{
-		Message: fmt.Sprintf("Are you sure you want to delete the selected branches: %s?", strings.Join(branchSelection, ", ")),
+		Message: "Are you sure you want to delete the selected branches?",
 	}
 	if err := survey.AskOne(confirmPrompt, &confirm); err != nil {
 		log.Fatalf("Failed to read user input: %v", err)
