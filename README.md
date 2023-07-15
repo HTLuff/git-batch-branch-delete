@@ -18,3 +18,7 @@ $ Deleted branch 'branch-2'
 $ Deleted branch 'branch-3'
 $
 ```
+
+## Install
+
+`curl -L -O https://github.com/htluff/gitbatchdelete/archive/main.zip`
