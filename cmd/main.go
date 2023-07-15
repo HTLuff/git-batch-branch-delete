@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/htluff/gitbatchbatchdelete/pkg/gitbranchbatchdelete"
+	"github.com/HTLuff/git-branch-batch-delete/pkg/gitbranchbatchdelete"
 )
 
 func main() {

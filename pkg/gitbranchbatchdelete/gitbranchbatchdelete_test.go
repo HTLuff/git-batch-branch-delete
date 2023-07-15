@@ -1,4 +1,4 @@
-package gitbatchdelete
+package gitbranchbatchdelete
 
 import (
 	"testing"

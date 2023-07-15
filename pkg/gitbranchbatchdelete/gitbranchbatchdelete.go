@@ -1,11 +1,11 @@
-package gitbatchdelete
+package gitbranchbatchdelete
 
 import (
 	"log"
 	"os"
 
-	"github.com/htluff/gitbranchbatchdelete/internal/git"
-	"github.com/htluff/gitbranchbatchdelete/internal/prompt"
+	"github.com/HTLuff/git-branch-batch-delete/internal/git"
+	"github.com/HTLuff/git-branch-batch-delete/internal/prompt"
 )
 
 // DeleteBranches prompts the user to select branches for deletion and deletes them.
