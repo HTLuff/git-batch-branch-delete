@@ -21,4 +21,4 @@ $
 
 ## Install
 
-`curl -L -O https://github.com/htluff/gitbatchdelete/archive/main.zip`
+`curl -L -O https://github.com/htluff/gitbatchdelete/install.sh`
