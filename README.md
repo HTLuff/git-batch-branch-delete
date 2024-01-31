@@ -1,6 +1,6 @@
 # Git Branch Batch Delete
 
-<img src="hero.png" alt="Logo" width="200" height="200">
+<img src="logo.png" alt="Logo" width="200" height="200">
 
 [![Go](https://img.shields.io/badge/go-1.16-blue.svg)](https://golang.org/)
 [![Shell](https://img.shields.io/badge/Shell-Yes-blue.svg)](ShellScript.sh)
