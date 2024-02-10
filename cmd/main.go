@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/HTLuff/git-branch-batch-delete/pkg/gitbranchbatchdelete"
+	"github.com/HTLuff/git-branch-batch-delete/pkg/batchdelete"
 )
 
 func main() {
-	gitbranchbatchdelete.DeleteBranches()
+	batchdelete.DeleteBranches()
 }

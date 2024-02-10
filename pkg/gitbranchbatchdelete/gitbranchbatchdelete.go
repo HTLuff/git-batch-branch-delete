@@ -1,4 +1,4 @@
-package gitbranchbatchdelete
+package batchdelete
 
 import (
 	"log"
